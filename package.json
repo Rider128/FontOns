@@ -1,0 +1,26 @@
+{
+  "name": "fontons",
+  "version": "0.1.0",
+  "description": "Task manager sync ",
+  "main": "app.js",
+  "dependencies": {
+    "electron": "^3.0.10"
+  },
+  "devDependencies": {
+    "devtron": "^1.4.0",
+    "electron": "^4.0.0-beta.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rider128/FontOns.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rider128/FontOns/issues"
+  },
+  "homepage": "https://github.com/Rider128/FontOns#readme"
+}
