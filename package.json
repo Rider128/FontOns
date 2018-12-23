@@ -3,8 +3,19 @@
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
   "scripts": {
-    "start": "electron" 
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Rider128/FontOns.git"
+  },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Rider128/FontOns/issues"
+  },
+  "homepage": "https://github.com/Rider128/FontOns#readme"
 }
