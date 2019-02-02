@@ -1,2 +1,2 @@
 # FontOns
-Fontons is a realtime software your pc's information 
+Fontons is a realtime task manager online for your pc's information
